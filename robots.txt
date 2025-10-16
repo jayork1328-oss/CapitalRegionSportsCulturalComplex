@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: https://jeoffreyyork.github.io/crscc-site/sitemap.xml
